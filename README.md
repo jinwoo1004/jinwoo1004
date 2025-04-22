@@ -69,12 +69,12 @@
 </details>
 
 ## ✉️ Contact
-
-<div align="center">
-  <a href="mailto:jinwoo1004@kakao.com">
-    <img src="https://img.shields.io/badge/KakaoMail-000000?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<details>
+<summary><strong>Mail</strong></summary>
+<a href="mailto:jinwoo1004@kakao.com">
+  <img src="https://img.shields.io/badge/KakaoMail-000000?style=flat&logo=gmail&logoColor=white" />
+</a>
+</details>
 
 ## 📊 Stats
 
