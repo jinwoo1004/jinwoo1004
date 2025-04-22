@@ -40,11 +40,8 @@
   <h1> 🧑‍💻 Contact me </h1>
   <br/>
   <div align="center">
-    <a href="https://decisive-chard-cb6.notion.site/Debugging-Refactoring-1cbfcd0013f7808fbe85c142d1ad4ac2?pvs=4">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    </a>
-    <a href="mailto:jisook0842@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    <a href="mailto:jinwoo1004@kakao.com">
+      <img src="https://img.shields.io/badge/KAKAO-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
   </div>
   <br/>
