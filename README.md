@@ -4,7 +4,7 @@
 
 ## ⚙️ Tech Stack
 
-<details>
+<details open>
 <summary><strong>Frontend</strong></summary>
 
 > Vue.js · React · TypeScript · JavaScript · Styled-Components
@@ -17,7 +17,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Backend</strong></summary>
 
 > Spring Boot · Java · JPA · Python · Flask
@@ -30,7 +30,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Database</strong></summary>
 
 > MySQL · PostgreSQL · MSSQL · Oracle · SQLite
@@ -43,7 +43,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Dev & Tools</strong></summary>
 
 > AWS · Firebase · Figma · Notion · Apache Tomcat · Tmax JEUS
@@ -57,7 +57,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>GIS & Spatial</strong></summary>
 
 > OpenLayers · ArcGIS · GeoServer
