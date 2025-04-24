@@ -5,8 +5,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🤩Welcome%20to%20Jinwoo's%20GitLab🤩&fontSize=40&fontColor=random&fontAlign=50&fontAlignY=40" />
 
 </div>
-## ⚙️ Tech Stack
 
+### ⚙️ Tech Stack
 <details open>
 <summary><strong>Frontend</strong></summary>
 
