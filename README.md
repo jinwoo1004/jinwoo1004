@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🛠️ Developer since October 2016
+# 🛠️ Developer since October 2016
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🤩Welcome%20to%20Jinwoo's%20GitLab🤩&fontSize=40&fontColor=random&fontAlign=50&fontAlignY=40" />
 
