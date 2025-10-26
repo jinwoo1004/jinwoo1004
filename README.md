@@ -9,6 +9,14 @@
 ### 📖 History
 
 <details open>
+<summary><strong>GS그룹 자이 건설 부문 전사 DX(디지털 혁신) 개발 업무</strong></summary>
+  
+  > 영업 정보 시스템 개발 (프론트, 백엔드 전체)
+  >
+  > 예상 공사비 예측 시스템 개발 (프론트, 백엔드 전체)
+</details>
+
+<details open>
 <summary><strong>자이 아파트 단지 서버 개발 및 유지보수</strong></summary>
   
   > TCP 통신 트래픽 공통 세션 함수 관리 개발
