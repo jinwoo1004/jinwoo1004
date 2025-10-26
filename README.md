@@ -9,7 +9,7 @@
 ### 📖 History
 
 <details open>
-<summary><strong>GS그룹 자이 건설 부문 전사 DX(디지털 혁신) 개발 업무</strong></summary>
+<summary><strong>GS그룹 건설 부문 전사 DX(디지털 혁신) 개발 업무</strong></summary>
   
   > 영업 정보 시스템 개발 (프론트, 백엔드 전체)
   >
@@ -17,7 +17,7 @@
 </details>
 
 <details open>
-<summary><strong>자이 아파트 단지 서버 개발 및 유지보수</strong></summary>
+<summary><strong>아파트 단지 서버 개발 및 유지보수</strong></summary>
   
   > TCP 통신 트래픽 공통 세션 함수 관리 개발
   >
@@ -37,7 +37,7 @@
 </details>
 
 <details open>
-<summary><strong>자이 아파트 단지 관리 시스템 개발 및 유지보수</strong></summary>
+<summary><strong>아파트 단지 관리 시스템 개발 및 유지보수</strong></summary>
   
   > 데이터 클라우드화 통합 서비스 연동 개발
   >
@@ -49,7 +49,7 @@
 </details>
 
 <details open>
-<summary><strong>자이 아파트 단지 관리 데이터 배치 서버 개발 및 유지보수</strong></summary>
+<summary><strong>아파트 단지 관리 데이터 배치 서버 개발 및 유지보수</strong></summary>
   
   > 배치 기능 내 연동 오류 수정
   > 
@@ -77,9 +77,9 @@
 </details>
 
 <details open>
-<summary><strong>롯데리아 전체 시스템 개발 및 유지보수</strong></summary>
+<summary><strong>배달APP 전체 시스템 개발 및 유지보수</strong></summary>
   
-  > 롯데리아 공식 주문 APP 개발 및 유지보수 (신규 기능 추가 및 오류 해결)
+  > 배달 공식 주문 APP 개발 및 유지보수 (신규 기능 추가 및 오류 해결)
   >
   > 후 결제 디바이스 <-> 서버 카드 결제 내역 거래 전송 데몬 개발
   >
@@ -87,11 +87,11 @@
   >
   > 간편 결제 API 연동 개발 (다수)
   >
-  > 롯데리아 POS 개발 및 유지보수
+  > 브랜드 POS 개발 및 유지보수
   >
-  > 롯데리아 데이터 관리 배치 서버 개발 및 유지보수
+  > 배달 APP 데이터 관리 배치 서버 개발 및 유지보수
   >
-  > 롯데리아 콜센터 플랫폼 개발 및 유지보수
+  > 배달 APP 콜센터 플랫폼 개발 및 유지보수
   >
   > 월간 및 주간 보고 주문 유형 별 매출 추출 쿼리
 </details>
