@@ -101,9 +101,9 @@
 </details>
   
 <details open>
-<summary><strong>삼성 타이젠 스마트 TV APP QA</strong></summary>
+<summary><strong>삼성 타이젠 스마트 TV APP QA 및 유지보수 (2016.10~2017.01)</strong></summary>
   
-  > 금성노래방, 멜론 등 다수 TV APP QA (White Test, Black Test)
+  > 금성노래방, 멜론 등 다수 TV APP QA (White Test, Black Test) 및 오류 수정
 </details>
   
 ### ⚙️ Tech Stack
