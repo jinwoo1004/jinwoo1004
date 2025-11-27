@@ -53,7 +53,7 @@
 </details>
 
 <details open>
-<summary><strong>아파트 단지 관리 데이터 배치 서버 개발 및 유지보수</strong></summary>
+<summary><strong>아파트 단지 관리 데이터 배치 서버 개발 (백엔드) 및 유지보수 (2023.08~2025.07)</strong></summary>
   
   > 배치 기능 내 연동 오류 수정
   > 
