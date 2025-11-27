@@ -9,7 +9,7 @@
 ### 📖 History
 
 <details open>
-<summary><strong>GS그룹 건설 부문 전사 DX(디지털 혁신) 개발 업무</strong></summary>
+<summary><strong>GS그룹 건설 부문 전사 DX(디지털 혁신) 개발 (2025.08~)</strong></summary>
   
   > 영업 정보 관리 시스템 개발 (프론트, 백엔드)
   >
@@ -21,7 +21,7 @@
 </details>
 
 <details open>
-<summary><strong>아파트 단지 서버 개발 및 유지보수</strong></summary>
+<summary><strong>아파트 단지 서버 개발 (백엔드) 및 유지보수 (2023.08~2025.07)</strong></summary>
   
   > TCP 통신 트래픽 공통 세션 함수 관리 개발
   >
@@ -41,7 +41,7 @@
 </details>
 
 <details open>
-<summary><strong>아파트 단지 관리 시스템 개발 및 유지보수</strong></summary>
+<summary><strong>아파트 단지 관리 시스템 개발 (프론트, 백엔드) 및 유지보수 (2023.08~2025.07)</strong></summary>
   
   > 데이터 클라우드화 통합 서비스 연동 개발
   >
@@ -61,7 +61,7 @@
 </details>
 
 <details open>
-<summary><strong>국가 프로젝트 개발 사업 시스템 개발 및 유지보수</strong></summary>
+<summary><strong>국가 프로젝트 개발 사업 시스템 개발 (프론트, 백엔드) 및 유지보수 (2020.06~2023.07)</strong></summary>
   
   > 제주시 현장조사 시스템 개발 (프론트, 백엔드) 및 유지보수
   > 
@@ -73,15 +73,15 @@
   >
   > 국가 하수도 정보 시스템 개발 (프론트, 백엔드) 및 유지보수
   >
-  > 지리원 긴급 공간 정보 시스템 개발 (프론트, 백엔드) 및 유지보수
+  > 국토지리정보원 긴급 공간정보 시스템 개발 (프론트, 백엔드) 및 유지보수
   >
   > 목포 도시 가스 업무 시스템 유지보수
   >
-  > 지리원 파일 연계 및 GIS 자동 연동 업로드 서버 개발  (백엔드)
+  > 국토지리정보원 긴급 공간정보 파일 연계 및 GIS 자동 연동 업로드 서버 개발 (백엔드)
 </details>
 
 <details open>
-<summary><strong>배달APP 전체 시스템 개발 및 유지보수</strong></summary>
+<summary><strong>배달APP 전체 시스템 개발 (프론트, 백엔드) 및 유지보수 (2017.02~2020.05)</strong></summary>
   
   > 배달 공식 주문 APP 개발 및 유지보수 (신규 기능 추가 및 오류 해결)
   >
