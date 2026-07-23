@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./hero.svg" width="100%" alt="이진우 · 풀스택 엔지니어" />
+<img src="./profile.svg" width="100%" alt="이진우 · 풀스택 엔지니어" />
 </div>
 
 <br/>
