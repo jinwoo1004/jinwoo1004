@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 1312" width="1320" height="1312" role="img" aria-label="이진우 포트폴리오 커버와 소개">
+  <defs>
+    <radialGradient id="blue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#DDE9FD"/>
+      <stop offset="45%" stop-color="#E1ECFD"/>
+      <stop offset="100%" stop-color="#E1ECFD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="yellow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FDF5A5"/>
+      <stop offset="40%" stop-color="#FDF6AC"/>
+      <stop offset="100%" stop-color="#FDF6AC" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card1clip"><rect x="6" y="6" width="1308" height="716" rx="20"/></clipPath>
+    <style>
+      text { font-family: "Pretendard","Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic","Segoe UI",sans-serif; }
+      .lbl { font-size: 14px; font-weight: 500; fill: #A1A4A9; }
+      .val { font-size: 17px; font-weight: 700; fill: #38393E; }
+      .sub { font-size: 15px; font-weight: 400; fill: #8A8E94; }
+    </style>
+  </defs>
+
+  <rect width="1320" height="1312" fill="#F1F1F1"/>
+
+  <!-- ===== Card 1 : Cover ===== -->
+  <g clip-path="url(#card1clip)">
+    <rect x="6" y="6" width="1308" height="716" fill="#FFFFFF"/>
+    <circle cx="1245" cy="131" r="560" fill="url(#blue)"/>
+    <circle cx="55" cy="666" r="520" fill="url(#yellow)"/>
+
+    <text x="64" y="291" font-size="134" font-weight="800" fill="#111111" letter-spacing="-4">이진우</text>
+
+    <text x="64" y="380" font-size="32" font-weight="700" fill="#111111" textLength="700" lengthAdjust="spacing">기획부터 디자인, 시스템 설계/개발, 시스템 배포까지,</text>
+
+    <rect x="572" y="417" width="210" height="23" fill="#FBE87F"/>
+    <text x="64" y="428" font-size="32" font-weight="700" fill="#111111" textLength="506" lengthAdjust="spacing">필요한 기술을 빠르게 실전에 적용하는</text>
+    <text x="583" y="428" font-size="32" font-weight="700" fill="#111111" textLength="187" lengthAdjust="spacing">풀스택 개발자</text>
+    <text x="790" y="428" font-size="32" font-weight="700" fill="#111111">입니다.</text>
+
+    <text x="63" y="503" font-size="16" font-weight="500" fill="#7A7C74">jinwoo1004@kakao.com</text>
+  </g>
+
+  <!-- ===== Card 2 : 01 소개 ===== -->
+  <rect x="6" y="734" width="1308" height="572" rx="20" fill="#FFFFFF"/>
+
+  <rect x="64" y="792" width="88" height="38" rx="19" fill="#EAF0FD"/>
+  <text x="108" y="817" font-size="15" font-weight="700" fill="#3A6BB5" text-anchor="middle">01 소개</text>
+
+  <text x="64" y="891" font-size="52" font-weight="800" fill="#111111" textLength="424" lengthAdjust="spacing">기획부터 배포까지,</text>
+  <rect x="486" y="875" width="263" height="24" fill="#FBE87F"/>
+  <text x="492" y="891" font-size="52" font-weight="800" fill="#111111" textLength="251" lengthAdjust="spacing">하나의 제품</text>
+  <text x="751" y="891" font-size="52" font-weight="800" fill="#111111">으로 완결합니다.</text>
+
+  <g font-size="22" font-weight="400" fill="#676C72">
+    <text x="64" y="958">특정 언어에 얽매이지 않고 필요한 기술을 빠르게 실전에 적용하는</text>
+    <text x="64" y="992">풀스택 개발자입니다. Java·Spring 서버와 React 반응형 앱을</text>
+    <text x="64" y="1026">중심으로, 실시간 통신·공간정보·기업 플랫폼까지 성격이 다른</text>
+    <text x="64" y="1060">도메인을 넘나들며 시스템을 설계하고 구축해 왔습니다.</text>
+  </g>
+
+  <!-- stat cards -->
+  <g>
+    <rect x="63" y="1096" width="166" height="132" rx="16" fill="#F4F6F8"/>
+    <text x="87" y="1166" font-size="48" font-weight="800" fill="#2F6FC4">9+</text>
+    <text x="88" y="1200" font-size="15" font-weight="500" fill="#676A71">개발 경력 (2016~)</text>
+
+    <rect x="245" y="1096" width="134" height="132" rx="16" fill="#F4F6F8"/>
+    <text x="269" y="1166" font-size="48" font-weight="800" fill="#2F6FC4">32</text>
+    <text x="270" y="1200" font-size="15" font-weight="500" fill="#676A71">주요 프로젝트</text>
+
+    <rect x="395" y="1096" width="171" height="132" rx="16" fill="#F4F6F8"/>
+    <text x="419" y="1166" font-size="48" font-weight="800" fill="#2F6FC4">200+</text>
+    <text x="420" y="1200" font-size="15" font-weight="500" fill="#676A71">개발 모듈</text>
+
+    <rect x="582" y="1096" width="107" height="132" rx="16" fill="#F4F6F8"/>
+    <text x="606" y="1166" font-size="48" font-weight="800" fill="#2F6FC4">5</text>
+    <text x="607" y="1200" font-size="15" font-weight="500" fill="#676A71">소속 기업</text>
+  </g>
+
+  <!-- info card -->
+  <g>
+    <rect x="710" y="933" width="580" height="265" rx="18" fill="#F4F8FB"/>
+
+    <text class="lbl" x="741" y="992">이름</text>
+    <text class="val" x="856" y="996">이진우 <tspan class="sub">(Lee Jin Woo) · 1993.12.20</tspan></text>
+    <rect x="741" y="1023" width="525" height="1" fill="#E6EBF0"/>
+
+    <text class="lbl" x="741" y="1046">직무</text>
+    <text class="val" x="856" y="1050">엔터프라이즈 플랫폼 엔지니어 <tspan class="sub">· 풀스택</tspan></text>
+    <rect x="741" y="1077" width="525" height="1" fill="#E6EBF0"/>
+
+    <text class="lbl" x="741" y="1100">전문</text>
+    <text class="val" x="856" y="1104" font-size="15" textLength="327" lengthAdjust="spacing">Backend · Frontend · AI · Data · Cloud · GIS</text>
+    <rect x="741" y="1131" width="525" height="1" fill="#E6EBF0"/>
+
+    <text class="lbl" x="741" y="1154">이메일</text>
+    <text class="val" x="856" y="1158">jinwoo1004@kakao.com</text>
+  </g>
+</svg>
