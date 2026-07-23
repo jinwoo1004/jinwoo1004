@@ -1,187 +1,216 @@
 <div align="center">
 
-## 🛠️ Developer since October 2016
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🤩Welcome%20to%20Jinwoo's%20GitLab🤩&fontSize=40&fontColor=random&fontAlign=50&fontAlignY=40" />
+# 이진우
+
+**기획부터 배포까지, 하나의 제품으로 완결합니다**
+
+<br/>
+
+풀스택 엔지니어 · Backend · Frontend · AI · Data · Cloud
+
+`jinwoo1004@kakao.com`
+
+<br/>
+
+|      `9년+`      |     `32개`     |    `200+`    |     `5곳`     |
+| :--------------: | :------------: | :----------: | :-----------: |
+| 개발 경력 (2016~) |  주요 프로젝트  |  개발 모듈   |   소속 기업   |
+
+<br/>
+<br/>
 
 </div>
 
-### 📖 History
+## 소개
 
-<details open>
-<summary><strong>GS그룹 건설 부문 전사 DX(디지털 혁신) 개발 (프론트, 백엔드) (2025.08~)</strong></summary>
-  
-  > 영업 정보 관리 시스템 개발 (AWS 기반 프론트, 백엔드)
-  >
-  > 예상 공사비 예측 시스템 개발 (AWS 기반 프론트, 백엔드)
-  >
-  > 전사 업무 통합 포털 시스템 개발 (AWS 기반 프론트, 백엔드)
-  >
-  > 안전 사고 보고 대시보드 시스템 개발 (AWS 기반 프론트, 백엔드)
-  >
-  > 레미콘 불량 검출 알림 서버 개발 (AWS 기반 백엔드)
-  >
-  > 노무비 데이터 분석 모니터링 시스템 개발 (AWS 기반 프론트, 백엔드)
-</details>
+특정 언어에 얽매이지 않고, 필요한 기술을 빠르게 실전에 적용합니다.
 
-<details open>
-<summary><strong>아파트 단지 서버 개발 (백엔드) 및 유지보수 (2023.08~2025.07)</strong></summary>
-  
-  > TCP 통신 트래픽 공통 세션 함수 관리 개발
-  >
-  > 시큐어 코딩 적용 (598page)
-  >
-  > TCP/IP 통신 비즈니스 로직 수정
-  >
-  > 쓰레드 종료 현상 해결
-  >
-  > APP 이벤트 발생 공통 함수 개발
-  >
-  > 공용부(엘리베이터, 검침, 비상콜 등) 서버 연동 오류 해결
-  >
-  > 각 디바이스 연동 오류 해결
-  >
-  > 신규 요청 기능 개발 (누수 감지 경비실기로 이벤트 발생 개발, 조명 컨트롤 디바이스 연동 신규 기능 개발 등)
-</details>
+Java·Spring 서버와 React 앱을 중심으로 GS그룹 건설 부문과 롯데리아,
+공공기관 국가 사업까지 성격이 다른 도메인을 넘나들며 시스템을 설계하고 구축해 왔습니다.
 
-<details open>
-<summary><strong>아파트 단지 관리 시스템 개발 (프론트, 백엔드) 및 유지보수 (2023.08~2025.07)</strong></summary>
-  
-  > 데이터 클라우드화 통합 서비스 연동 개발
-  >
-  > 모바일 화면 개발
-  >
-  > ISMS 인증 보안 관련 개발
-  >
-  > 신규 요청 기능 개발 (각 단지 별 업체 관리 기능 개발, 각 단지 별 업데이트 자동화 개발 등)
-</details>
+<br/>
 
-<details open>
-<summary><strong>아파트 단지 관리 데이터 배치 서버 개발 (백엔드) 및 유지보수 (2023.08~2025.07)</strong></summary>
-  
-  > 배치 기능 내 연동 오류 수정
-  > 
-  > 신규 요청 기능 개발 (GIT연동, 단지 서버 로컬 DB 연동, 외부 오픈 API 연동 등)
-</details>
+## 경력
 
-<details open>
-<summary><strong>국가 프로젝트 개발 사업 시스템 개발 (프론트, 백엔드) 및 유지보수 (2020.06~2023.07)</strong></summary>
-  
-  > 제주시 현장조사 시스템 개발 (프론트, 백엔드) 및 유지보수
-  > 
-  > 우즈베키스탄 수자원 시스템 개발 (프론트, 백엔드)
-  >
-  > 통계청 농어업면적 조사 플랫폼 개발 (프론트, 백엔드) 및 유지보수
-  >
-  > 의정부시 VR 플랫폼 개발 (프론트, 백엔드) 및 유지보수
-  >
-  > 국가 하수도 정보 시스템 개발 (프론트, 백엔드) 및 유지보수
-  >
-  > 국토지리정보원 긴급 공간정보 시스템 개발 (프론트, 백엔드) 및 유지보수
-  >
-  > 목포 도시 가스 업무 시스템 유지보수
-  >
-  > 국토지리정보원 긴급 공간정보 파일 연계 및 GIS 자동 연동 업로드 서버 개발 (백엔드)
-</details>
+| 기간                | 소속                       | 역할                    | 한 줄                                              |
+| :------------------ | :------------------------- | :---------------------- | :------------------------------------------------- |
+| `2025.08 ~ 현재`    | GS그룹 건설 부문 전사 DX    | Platform · AI · Data    | 업무·안전·AI·데이터센터 플랫폼을 기획부터 구축까지   |
+| `2023.08 ~ 2025.08` | GS그룹 건설 부문 홈 IoT     | Backend                 | 아파트 단지 IoT 플랫폼. 실시간 통신과 보안, 배치     |
+| `2020.06 ~ 2023.07` | 공공기관 국가 공간정보 사업 | GIS Full-stack          | 통계청·국토지리정보원·환경공단·지자체 시스템 구축    |
+| `2017.02 ~ 2020.05` | 롯데리아 통합 서비스        | Backend                 | 결제 데몬, 배달 API, POS, 콜센터, 배치              |
+| `2016.10 ~ 2017.01` | 삼성 스마트 TV 플랫폼       | QA                      | 다수 TV 앱 품질 검증                                |
 
-<details open>
-<summary><strong>배달APP 전체 시스템 개발 (프론트, 백엔드) 및 유지보수 (2017.02~2020.05)</strong></summary>
-  
-  > 배달 공식 주문 APP 개발 및 유지보수 (신규 기능 추가 및 오류 해결)
-  >
-  > 후 결제 디바이스 <-> 서버 카드 결제 내역 거래 전송 데몬 개발
-  >
-  > 배달 대행 API 연동 개발 (다수)
-  >
-  > 간편 결제 API 연동 개발 (다수)
-  >
-  > 브랜드 POS 개발 및 유지보수
-  >
-  > 배달 APP 데이터 관리 배치 서버 개발 및 유지보수
-  >
-  > 배달 APP 콜센터 플랫폼 개발 및 유지보수
-  >
-  > 월간 및 주간 보고 주문 유형 별 매출 추출 쿼리
-</details>
-  
-<details open>
-<summary><strong>삼성 타이젠 스마트 TV APP QA 및 유지보수 (2016.10~2017.01)</strong></summary>
-  
-  > 금성노래방, 멜론 등 다수 TV APP QA (White Test, Black Test) 및 오류 수정
-</details>
-  
-### ⚙️ Tech Stack
-<details open>
-<summary><strong>Frontend</strong></summary>
+<br/>
 
-> Vue.js · React · TypeScript · JavaScript · Styled-Components
+## 대표 프로젝트
 
-&nbsp;&nbsp;![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vuedotjs&logoColor=white)  
-&nbsp;&nbsp;![React](https://img.shields.io/badge/React-%2300D1FF?style=flat&logo=react&logoColor=white)  
-&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)  
-&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)  
-&nbsp;&nbsp;![Styled-Components](https://img.shields.io/badge/Styled--Components-%23DB7093?style=flat&logo=styledcomponents&logoColor=white)
+<details>
+<summary><b>AI 예상 공사비 예측 시스템</b> — 견적 산출 22일 → 3일</summary>
+
+<br/>
+
+| 구분      | 내용                                                            |
+| :-------- | :-------------------------------------------------------------- |
+| 문제      | 예상 공사비 산출에 2~3주가 걸려 협의가 지연됩니다                 |
+| 모델      | CatBoost로 원가 8종을 학습합니다. 평당 단가를 로그 변환해 예측합니다 |
+| 신뢰도    | KFold 5 앙상블 평균과 표준편차로 95% 신뢰구간을 제공합니다        |
+| 정합 보정 | 총공사비를 고정하고 항목 합계를 정확히 맞춥니다                   |
+| MLOps     | 학습 승인 워크플로, 델타 감지, 실행 단위 지표 기록으로 재현성 확보  |
+| 결과      | **약 20일 단축.** 견적·조달 표준화와 후속 AI 과제의 기반          |
+
+`Python` `CatBoost` `React` `Java` `Spring` `MySQL`
 
 </details>
 
-<details open>
-<summary><strong>Backend</strong></summary>
+<details>
+<summary><b>민원 대응 통합 플랫폼</b> — 통합 검색과 생성형 AI 요약</summary>
 
-> Spring Boot · Java · JPA · Python · Flask
+<br/>
 
-&nbsp;&nbsp;![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white)  
-&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-%23F7B731?style=flat&logo=openjdk&logoColor=white)  
-&nbsp;&nbsp;![JPA](https://img.shields.io/badge/JPA-%238B8B8B?style=flat&logo=hibernate&logoColor=white)  
-&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-%233B7D1E?style=flat&logo=python&logoColor=white)  
-&nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat&logo=flask&logoColor=white)
+| 구분      | 내용                                                             |
+| :-------- | :--------------------------------------------------------------- |
+| 문제      | 민원이 여러 채널로 접수되어 현황 파악과 이력 관리가 어렵습니다      |
+| 통합 검색 | 검색 인프라 없이 도메인 API 오케스트레이션으로 구성했습니다         |
+| 질의 이해 | 조사와 불용어를 제거해 떨어진 단어도 매칭합니다. AND 후 OR 폴백     |
+| 생성형 AI | 실데이터에만 근거해 환각을 억제하고, 인용을 눌러 원문서로 이동합니다 |
+| 안정성    | 입력 해시 캐싱과 규칙 기반 폴백으로 검색은 멈추지 않습니다          |
+| 결과      | **대응 속도와 품질 향상.** 대응 노하우를 데이터로 축적             |
 
-</details>
-
-<details open>
-<summary><strong>Database</strong></summary>
-
-> MySQL · PostgreSQL · MSSQL · Oracle · SQLite
-
-&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-%2300A4D6?style=flat&logo=mysql&logoColor=white)  
-&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat&logo=postgresql&logoColor=white)  
-&nbsp;&nbsp;![MSSQL](https://img.shields.io/badge/MSSQL-%232D2A4E?style=flat&logo=microsoftsqlserver&logoColor=white)  
-&nbsp;&nbsp;![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white)  
-&nbsp;&nbsp;![SQLite](https://img.shields.io/badge/SQLite-%2307405F?style=flat&logo=sqlite&logoColor=white)
+`Next.js` `TypeScript` `Java 17` `Spring Boot` `MySQL` `Vertex AI`
 
 </details>
 
-<details open>
-<summary><strong>Dev & Tools</strong></summary>
+<details>
+<summary><b>외부 데이터 연동 & 데이터센터</b> — 외부 데이터를 회사의 자산으로</summary>
 
-> AWS · Firebase · Figma · Notion · Apache Tomcat · Tmax JEUS
+<br/>
 
-&nbsp;&nbsp;![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)  
-&nbsp;&nbsp;![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)  
-&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)  
-&nbsp;&nbsp;![Notion](https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white)  
-&nbsp;&nbsp;![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75?style=flat&logo=apachetomcat&logoColor=white)  
-&nbsp;&nbsp;![Tmax JEUS](https://img.shields.io/badge/Tmax--JEUS-%239F9F9F?style=flat&logoColor=white)
+| 구분 | 내용                                                    |
+| :--- | :------------------------------------------------------ |
+| 문제 | 사내외 데이터가 분리되어 통합 조회와 재사용이 어렵습니다  |
+| 설계 | 단일 진입점 중계 서버로 수집·검증·저장을 표준화했습니다    |
+| 구현 | 공통 API 연계, 정합성 검증, 에러 재처리, 연동 스키마 설계  |
+| 결과 | **데이터 소유권 확보.** AI 분석과 생산성 예측의 기반      |
 
-</details>
-
-<details open>
-<summary><strong>GIS & Spatial</strong></summary>
-
-> OpenLayers · ArcGIS · GeoServer
-
-&nbsp;&nbsp;![OpenLayers](https://img.shields.io/badge/OpenLayers-%234A90E2?style=flat&logo=OpenLayers&logoColor=white)  
-&nbsp;&nbsp;![ArcGIS](https://img.shields.io/badge/ArcGIS-%23FF6F00?style=flat&logo=ArcGIS&logoColor=white)  
-&nbsp;&nbsp;![GeoServer](https://img.shields.io/badge/GeoServer-%23008000?style=flat&logo=GeoServer&logoColor=white)
+`Java 17` `Spring` `AWS` `Azure` `MySQL`
 
 </details>
 
-## ✉️ Contact
-<a href="mailto:jinwoo1004@kakao.com">
-  <img src="https://img.shields.io/badge/KakaoMail-000000?style=flat&logo=gmail&logoColor=white" />
-</a>
+<br/>
 
-## 📊 Stats
+## 전체 프로젝트
+
+**Data & Cloud** · GS그룹 건설 부문
+
+| 프로젝트                     | 내용                                  | 스택                        |
+| :--------------------------- | :------------------------------------ | :-------------------------- |
+| 외부 데이터 연동 & 데이터센터 | 흩어진 데이터를 표준 REST API로 개방   | `Java 17` `Spring` `AWS`    |
+| AWS 테스트서버 & GitHub 조직  | 인프라 표준화, 브랜치 보호와 2FA 정책  | `AWS` `Docker` `Nginx`      |
+| 건축주택 데이터 표준 템플릿   | 공통 키 기반 재사용 데이터 모델        | `Data Modeling` `MySQL`     |
+
+**AI & Automation** · GS그룹 건설 부문
+
+| 프로젝트                   | 내용                             | 스택                            |
+| :------------------------- | :------------------------------- | :------------------------------ |
+| AI 예상 공사비 예측 시스템  | 원가 8종 예측과 합계 정합 보정    | `Python` `CatBoost` `Spring`    |
+| AI 견적 대비표 작성 시스템  | 내역 분개 자동화, ±20% 이상값 강조 | `React` `Java 17` `Spring Boot` |
+| 홈솔루션 통합 모니터링 방안 | 사후 대응을 사전 감지로 전환      | `Datadog` `Spring Boot`         |
+
+**Enterprise Platform** · GS그룹 건설 부문
+
+| 프로젝트               | 내용                              | 스택                         |
+| :--------------------- | :-------------------------------- | :--------------------------- |
+| 민원 대응 통합 플랫폼   | 통합 검색과 생성형 AI 요약         | `Next.js` `Spring Boot` `AI` |
+| 아파트 단지 IoT 플랫폼  | 월패드와 공용부 실시간 통신 안정화 | `Java` `Spring Boot` `MySQL` |
+| WorkHub 전사 통합 포털  | 전사 진입 경로를 SSO로 통합        | `React` `Spring` `SSO`       |
+| 자이렉트 제안제도 플랫폼 | 접수부터 심사와 포상까지 시스템화   | `Next.js` `TypeScript` `AWS` |
+| 하도급 대금 지급 검증   | 4대 지급 리스크 자동 탐지          | `React` `TypeScript` `JPA`   |
+| 영업 정보 시스템        | 수주 단계와 담당자 현황 가시화     | `React` `Java` `Spring`      |
+| 작업 일보 시스템        | 종이 일보를 전자결재로 전환        | `React` `Java` `Spring`      |
+| 프리콘 이행 점검 관리   | 점검에서 개선, 확인까지 폐루프     | `React` `Java` `Spring`      |
+| IT 자산관리 시스템      | 지급과 회수, 재고 이력 표준화      | `React` `Java` `Spring`      |
+| PTW 고위험 작업 관리    | 29개 공종 체크리스트 자동 구성     | `React Native` `Spring Boot` |
+| SAFETY CSO 앱 통합     | 안전관리 기능을 하나의 앱으로      | `React Native` `Spring Boot` |
+| 작업중지권 STOP CALL   | 사진과 음성 신고. **누적 1,200건+** | `React Native` `지도 API`    |
+| 재해율 분석 SAFEYE     | 재해 데이터 입력에서 시각화까지    | `React` `Spring Boot`        |
+| 레미콘 불량 알림 서버   | 조건 검증 후 자동 전송과 재처리    | `Java 17` `Spring Boot`      |
+
+**GIS & National** · 공공기관 국가 사업
+
+| 프로젝트                | 내용                            | 스택                           |
+| :---------------------- | :------------------------------ | :----------------------------- |
+| 통계청 농업 현장 조사    | 전국 재배·경지 면적 조사 플랫폼  | `Spring` `PostgreSQL` `ArcGIS` |
+| 지리원 긴급공간정보      | 재난 모니터링과 위성영상 분석    | `Spring` `Oracle` `GeoServer`  |
+| 전국 하수도 정보 시스템  | 하수도 지표 시각화. 약 10개월 운영 | `Spring` `Oracle` `GeoServer`  |
+| 제주시 현장 조사 시스템  | 모바일 반응형 상시조사           | `Spring` `ArcGIS` `OpenLayers` |
+| 의정부 VR·드론 영상      | 로드뷰형 VR 탐색과 영상 연동     | `Spring` `GeoServer`           |
+
+**Backend & Realtime** · 롯데리아
+
+| 프로젝트                  | 내용                              | 스택                         |
+| :------------------------ | :-------------------------------- | :--------------------------- |
+| 롯데리아 통합 서비스 플랫폼 | APP과 POS, 콜센터, 배치 백엔드     | `Spring Boot` `MSSQL` `JEUS` |
+| 실시간 결제 승인 데몬      | 비동기 소켓으로 승인번호 실시간 검증 | `Java` `Netty` `MSSQL`       |
+| 배달 대행 연동 API        | 7개사 이상을 하나의 표준으로 정리   | `Java` `Spring Boot` `MSSQL` |
+| 파트너 오픈 API 서버      | OAuth 2.0 토큰 발급과 실시간 처리   | `Spring Boot` `OAuth2`       |
+| 음성봇 ARS · AI 홈디바이스 | 말과 스피커로 주문하는 커머스 연동  | `Spring` `TTS` `Python`      |
+
+**QA & Foundation** · 삼성 스마트 TV
+
+| 프로젝트        | 내용                           | 스택                |
+| :-------------- | :----------------------------- | :------------------ |
+| 스마트 TV 앱 QA | 테스트 시나리오 수행과 회귀 검증 | `Java` `JavaScript` |
+
+<br/>
+
+## 기술
+
+| 구분           | 기술                                                              |
+| :------------- | :---------------------------------------------------------------- |
+| Backend        | `Java 17` `Spring Boot` `JPA` `Netty` `WebSocket` `Python` `Flask` |
+| Frontend       | `React` `Next.js` `TypeScript` `React Native` `Vue.js` `Tailwind`  |
+| Database       | `MySQL` `PostgreSQL` `MSSQL` `Oracle` `Firebase`                   |
+| Cloud · DevOps | `AWS` `Azure` `Docker` `Nginx` `GitHub` `Tomcat` `JEUS`            |
+| AI · Data      | `CatBoost` `Vertex AI` `Datadog` `Data Modeling`                   |
+| GIS · Arch     | `ArcGIS` `OpenLayers` `GeoServer` `REST` `OAuth2` `SSO`            |
+
+<br/>
+
+## 원칙
+
+| 원칙                      | 내용                                                      |
+| :------------------------ | :-------------------------------------------------------- |
+| 언어보다 문제를 먼저 본다  | 스택은 도구입니다. 상황에 맞는 기술을 골라 빠르게 적용합니다 |
+| 플랫폼을 설계한다         | 인증과 연동, 데이터, 운영까지 공통 구조를 먼저 그립니다      |
+| 데이터를 자산으로 남긴다   | 오늘의 기록이 내일의 AI와 분석 기반이 됩니다                |
+| 안정성과 소통으로 완결한다 | 시큐어 코딩과 정합성 검증을 기본으로 현업과 반복 협업합니다   |
+
+<br/>
+
+## 배움
+
+| 구분 | 내용                           | 기간         |
+| :--- | :----------------------------- | :----------- |
+| 석사 | 소프트웨어공학 · 학점 4.35 / 4.5 | `2020–2022`  |
+| 논문 | GIS 자동 연계 모듈에 관한 연구  | `2022.06`    |
+| 자격 | 정보처리기사                    | `2019.11`    |
+| 교육 | AI 활용 주가예측 (NIPA)         | `2020.09–12` |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoo1004&layout=compact&theme=graywhite&title_color=000000&text_color=000000&bg_color=ffffff&cache_seconds=1" />
+
+<br/>
+<br/>
+
+**기능을 만드는 사람이 아니라, 플랫폼을 설계하는 엔지니어로 함께하겠습니다**
+
+<br/>
+
+`jinwoo1004@kakao.com`
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwoo1004&layout=compact&theme=graywhite&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&cache_seconds=1" />
+
 </div>
